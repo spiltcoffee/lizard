@@ -6,3 +6,8 @@ lizard
 
 - [AutoHotKey v2](https://www.autohotkey.com/)
 - lizard
+
+## Usage
+
+* Run `lizard.ahk`
+* Enjoy lizard
